@@ -2,6 +2,8 @@
 
 👋 Hi there! I'm Florian, also known as @HereToDoMyLearning.
 
+Also I am the founder of CheckPoint EU (checkpoint-app.eu), Mentor and GPM-Member in Berlin.
+
 🌱 I'm currently diving into the realms of business and IT, eagerly soaking up knowledge.
 
 📫 You can reach me at: [contact@open-intelligence.eu](mailto:contact@open-intelligence.eu)
